@@ -1,3 +1,12 @@
+> **Fork notice / attribution**
+>
+> This repository is a **fork** of [coleam00/skills](https://github.com/coleam00/skills) by **Cole Medin**.
+> It is used and adapted as part of **ERESEMAI** agentic engineering practice.
+> The skill bodies and the README content below are **not** original authorship of this fork — credit belongs to Cole Medin and the upstream project.
+> See [ATTRIBUTION.md](./ATTRIBUTION.md) and the MIT [LICENSE](./LICENSE).
+
+---
+
 # Cole's AI Skills
 
 The skills I actually use to build software with coding agents. Straight out of my `.claude/skills/` folder.
